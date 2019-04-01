@@ -1,1 +1,45 @@
-/* You can add global styles to this file, and also import other style files */
+body {
+  background-color: #FFFFFF;
+}
+
+header {
+  font-family: Verdana, sans-serif;
+  text-align: center;
+}
+
+.header {
+  font-family: Verdana, sans-serif;
+  text-align: center;
+  display: block;
+  background-color: #CC8E00;
+  padding: 20px;
+  font-family: Verdana,
+    bold;
+  font-size: 1cm;
+  color: #FFFFFF;
+}
+
+h1 {
+  font-family: Verdana, sans-serif;
+}
+
+a {
+  color: #002CDE;
+}
+.user-image {
+  width: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  padding-left: 520px;
+}
+
+.footer {
+  display: block;
+  text-align: center;
+  background-color: #000000;
+  padding: 20px;
+  font-family: Verdana, sans-serif;
+  color: #FFFFFF;
+}
